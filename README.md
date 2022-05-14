@@ -5,4 +5,4 @@ The 'cross resonance' operation has been the fundamental mechanism to realize th
 
 This shared package is a work for 'IBM open-science-prize-2021'. It implements a prototype of the double cross resonance gate and uses it to simulate the Heisenberg model of three spins. The purpose of this post is to share the idea of this multi-qubit gate. It is preliminarily tuned and please bare with the uncleaned original code. 
 
-The details are presented in 'main.ipynb'. All other are supporting code or saved data.
+The details are presented in 'main.ipynb'. 'base.py' contains the supporting code. The rest are data files and some early code kept for record.
